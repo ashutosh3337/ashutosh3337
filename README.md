@@ -27,21 +27,6 @@ Currently exploring **Web Development** and improving my **problem-solving** ski
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="145" src="https://github-readme-stats.vercel.app/api?username=ashutosh3337&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="145" src="https://streak-stats.demolab.com/?user=ashutosh3337&theme=radical&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh3337&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-mathpati-54b855306?utm_source=share_via&utm_content=profile&utm_medium=member_android)
